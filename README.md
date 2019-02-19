@@ -1,6 +1,6 @@
 # Azure Functions V2 Dependency Injection
 
-Sample demonstrating dependency injection in Azure Functions V2.
+Sample demonstrating dependency injection in Azure Functions V2 using Microsoft.Extensions.DependencyInjection(https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection) nuget package
 
 # Startup project
 
