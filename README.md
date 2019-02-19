@@ -2,8 +2,6 @@
 
 Sample demonstrating dependency injection in Azure Functions V2.
 
-It's based on how ILogger is injected into the default function signature.
-
 # Startup project
 
 By using IWebJobsStartup we get access to the IServiceCollection instance where we register our IWelcomeService.
